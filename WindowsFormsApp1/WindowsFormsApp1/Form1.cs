@@ -31,6 +31,8 @@ namespace WindowsFormsApp1
         {
             MessageBox.Show("Thành công");
         }
+        public string formatStr(string str){
+        if(!string.isNull)
 
         private void label2_Click(object sender, EventArgs e)
         {
